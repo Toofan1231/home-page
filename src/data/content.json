@@ -1,0 +1,161 @@
+{
+  "header": {
+    "brand": {
+      "name": "کهزاد تکنالوژی",
+      "tagline": "ICT Services"
+    },
+    "topBar": {
+      "email": "Info@kohzadict.com",
+      "phone": "+93 730 382 382",
+      "address": "پروان سوم، کوچه 22، کابل افغانستان"
+    },
+    "navItems": [
+      {
+        "label": "صفحه اصلی",
+        "href": "/"
+      },
+      {
+        "label": "درباره ما",
+        "href": "/about",
+        "children": [
+          {
+            "label": "معرفی شرکت",
+            "href": "/about"
+          }
+        ]
+      },
+      {
+        "label": "خدمات ما",
+        "href": "/services",
+        "children": [
+          {
+            "label": "خدمات نرم افزار",
+            "href": "/services/software"
+          },
+          {
+            "label": "خدمات سخت افزار",
+            "href": "/services/hardware"
+          },
+          {
+            "label": "خدمات شبکه",
+            "href": "/services/network"
+          },
+          {
+            "label": "سایر خدمات تکنالوژی",
+            "href": "/services/ict"
+          }
+        ]
+      },
+      {
+        "label": "محصولات",
+        "href": "/products",
+        "children": [
+          {
+            "label": "سیستم مدیریت لابراتوار",
+            "href": "/products/laboratory"
+          },
+          {
+            "label": "سیستم حسابداری",
+            "href": "/products/accounting"
+          },
+          {
+            "label": "سیستم مدیریت طلا فروشی",
+            "href": "/products/jewelry"
+          },
+          {
+            "label": "سیستم مدیریت مکتب",
+            "href": "/products/school"
+          },
+          {
+            "label": "سیستم مدیریت شفاخانه",
+            "href": "/products/hospital"
+          },
+          {
+            "label": "سیستم مدیریت سوپرمارکیت",
+            "href": "/products/supermarket"
+          },
+          {
+            "label": "سیستم مدیریت رستورانت",
+            "href": "/products/restaurant"
+          },
+          {
+            "label": "سیستم مدیریت فابریکه",
+            "href": "/products/factory"
+          }
+        ]
+      },
+      {
+        "label": "تماس با ما",
+        "href": "/contact"
+      }
+    ],
+    "cta": {
+      "label": "درخواست قیمت‌نامه",
+      "href": "/contact"
+    }
+  },
+  "hero": {
+    "eyebrow": "راهکارهای ICT، نرم‌افزار و زیرساخت برای کسب‌وکارهای افغانستان",
+    "title": "برای رشد کسب‌وکار تان یک زیرساخت دیجیتالی",
+    "titleAccent": "سریع، امن و قابل اعتماد بسازید",
+    "description": "کهزاد تکنالوژی خدمات نرم‌افزار، شبکه، سرور، سخت‌افزار و پشتیبانی تخنیکی را در یک مسیر منظم فراهم می‌کند؛ از تحلیل نیاز و طراحی تا پیاده‌سازی، آموزش و نگهداری. هدف ما ساختن سیستم‌هایی است که کار روزمره شما را ساده‌تر، دقیق‌تر و قابل رشد بسازد.",
+    "primaryCta": "درخواست مشاوره رایگان",
+    "primaryHref": "/contact",
+    "secondaryCta": "مشاهده خدمات و محصولات",
+    "secondaryHref": "/services",
+    "trustBadge": "تحویل منظم، پشتیبانی ۲۴/۷ و راهکار قابل توسعه",
+    "highlights": [
+      "طراحی متناسب با بازار افغانستان و نیاز واقعی مشتریان",
+      "نرم‌افزار، شبکه، سرور و پشتیبانی در یک مسیر واحد",
+      "تجربه کاربری مدرن، responsive و آماده توسعه"
+    ],
+    "metrics": [
+      {
+        "value": "24/7",
+        "label": "پشتیبانی تخنیکی"
+      },
+      {
+        "value": "+45",
+        "label": "مشتریان رضایتمند"
+      },
+      {
+        "value": "+28",
+        "label": "پروژه تکمیل‌شده"
+      }
+    ],
+    "panelStats": [
+      {
+        "value": "99.9%",
+        "label": "پایداری خدمات"
+      },
+      {
+        "value": "SSL",
+        "label": "امنیت و اعتماد"
+      },
+      {
+        "value": "Fast",
+        "label": "سرعت و پاسخ‌دهی"
+      }
+    ],
+    "serviceCards": [
+      {
+        "title": "نرم‌افزارهای مدیریتی",
+        "description": "سیستم‌های حسابداری، فروش، مکتب، شفاخانه، لابراتوار، رستورانت و فابریکه."
+      },
+      {
+        "title": "شبکه، سرور و امنیت",
+        "description": "راه‌اندازی شبکه، Wi‑Fi، سرور، ذخیره‌سازی، امنیت و تجهیزات دفاتر."
+      },
+      {
+        "title": "پشتیبانی و نگهداری",
+        "description": "رسیدگی سریع به مشکلات تخنیکی، آموزش کاربران و حفظ پایداری سیستم‌ها."
+      }
+    ],
+    "chips": [
+      "Software",
+      "Network",
+      "Hardware",
+      "ICT Support"
+    ]
+  }
+}
